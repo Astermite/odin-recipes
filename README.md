@@ -1,0 +1,1 @@
+This will be a practice to test my skills in html. I will make a page that contains links to recipes in it. It will also test my ability to remember how to use git and its commands. it is one of the lessons of the odin project.
